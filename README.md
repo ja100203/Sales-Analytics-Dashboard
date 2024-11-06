@@ -17,7 +17,7 @@ An interactive data visualization project that analyzes sales performance and cu
    ```bash
    git clone https://github.com/ja100203/Sales-Analytics-Dashboard.git
 2. Open the Tableau workbook or view the dashboards using the provided Tableau Public link : 
-  
+  https://public.tableau.com/views/SalesDashboard_17308690851700/CustomerDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 3. Explore the dashboard by selecting different years and applying filters to view detailed insights.
 4. Dataset
    The dataset includes sales and customer data from 2021 to 2024, with metrics such as:
